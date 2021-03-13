@@ -1,0 +1,9 @@
+#+title: Help & Info
+#+slug: help
+
+* Software installation
+
+Anaconda:
+https://docs.anaconda.com/anaconda/install/
+
+* Resources
