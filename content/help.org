@@ -9,6 +9,25 @@ There are 3 instructors for this course:
 - Lydia Vermeyden, from [[https://www.ace-net.ca/][ACENET]] and [[https://computecanada.ca][Compute Canada]]
 - [[https://marie-helene-burle.netlify.com][Marie-Helene (Marie) Burle]], from [[https://westgrid.ca][WestGrid]] and [[https://computecanada.ca][Compute Canada]]
 
+* Schedule
+
+***** Day 1
+
+9:00 - 9:15am		Introductions and Course Plan \\
+9:15 - 11:00am 	Command Line: http://swcarpentry.github.io/shell-novice/ \\
+Lessons 1, 2 and 3 \\
+11:00 - 11:15am 	Break \\
+11:15 - 1:00pm 	Intro to Python
+
+***** Day 2
+
+Dive into Python
+
+***** Day 3
+
+Project Boosters \\
+Specialty Topics in Breakout rooms
+
 * Software installation
 
 You will need to install a number of software on your machine for this course:
