@@ -1,12 +1,13 @@
 <footer class="footer">
   <section class="container">
-    <br>
+    {{ with .Site.Params.footercontent | safeHTML }}
+    <p class="footcontent"><a href="/help">{{ . }}</a></p>
+    {{ end }}
     <a href="https://dhsi.org/"><img src="/img/dhsi_logo.png" width="25"></a>&ensp;&nbsp;&nbsp;
     <a href="https://westgrid.ca/"><img src="/img/wg_logo.png" width="35"></a>&ensp;&nbsp;
     <a href="https://www.computecanada.ca/"><img src="/img/cc_logo.png" width="35"></a>&ensp;&nbsp;
     <a href="/"><i class="fa fa-home fa-lg" style='color: #58585a'></i></a>
     <div style="font-size: 1.3rem;">
-    <br>
       {{ if not .Site.Params.hideCopyright }}
       {{ with .Site.Params.since }}
       © {{ if lt . now.Year }}{{ . }}–{{ end }}{{ now.Year }}
