@@ -1,0 +1,6 @@
+#+title: Day 4 – On your own!
+#+slug: day4
+
+{{<cor>}}Thursday, June 17{{</cor>}} \\
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+

@@ -1,0 +1,6 @@
+#+title: Day 5 – Project presentations
+#+slug: day5
+
+{{<cor>}}Friday, June 18{{</cor>}} \\
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+

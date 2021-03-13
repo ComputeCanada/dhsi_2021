@@ -1,0 +1,6 @@
+#+title: Day 3 – More on Python
+#+slug: day3
+
+{{<cor>}}Wednesday, June 16{{</cor>}} \\
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+

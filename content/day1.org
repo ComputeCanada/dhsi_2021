@@ -1,0 +1,6 @@
+#+title: Day 1 – Introduction
+#+slug: day1
+
+{{<cor>}}Monday, June 14{{</cor>}} \\
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+

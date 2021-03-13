@@ -1,0 +1,6 @@
+#+title: Day 2 – Python
+#+slug: day2
+
+{{<cor>}}Tuesday, June 15{{</cor>}} \\
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+
