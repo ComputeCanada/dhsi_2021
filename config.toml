@@ -16,19 +16,15 @@ canonifyurls = true
     style = "manni"   # Chroma Style Gallery https://xyproto.github.io/splash/docs/longer/all.html
 
 [params]
-    author = "WestGrid"
-    description = ""
-    keywords = ""
-    info = "Coding Fundamentals for Humanists"
-    wgavatar = "/img/dhsi_logo.png"
-    favicon_32 = "/img/dhsi_logo.png"
-    footercontent = "Help & Info"
-
-    dateformat = "January 2, 2006"
-
-    hideCredits = false
-    hideCopyright = false
-    since = 2020
+ repourl = "https://github.com/ComputeCanada/dhsi_2021"
+ info = "Coding Fundamentals for Humanists"
+ wgavatar = "/img/dhsi_logo.png"
+ favicon_32 = "/img/dhsi_logo.png"
+ footercontent = "Help & Info"
+ dateformat = "January 2, 2006"
+ hideCredits = false
+ hideCopyright = false
+ since = 2021
 
 [languages]
     [languages.en]
