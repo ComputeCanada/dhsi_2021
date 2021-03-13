@@ -11,7 +11,16 @@ There are 3 instructors for this course:
 
 * Software installation
 
-Anaconda:
-https://docs.anaconda.com/anaconda/install/
+You will need to install a number of software on your machine:
+
+- [[https://docs.anaconda.com/anaconda/install/][Anaconda]] \\
+  This will install Python and many Python packages and tools.
+- Windows users only: [[https://gitforwindows.org/][Git for Windows]] \\
+  We will not use Git in this workshop, but this software comes with a Bash emulation and we will use Bash a little. Linux and MacOS users do not need to install this as they already have Bash on their system.
+- Once you have a terminal and Anaconda installed, you will be able to install [[https://jupyter.org/install][JupyterLab]]. \\
+  As this installation requires the use of the command line, if you have issues, we will help you with that one at the start of the course.
+- A good text editor. \\
+  Note that Microsoft Word and similar are not text editors. They are word processors, meaning that they add a lot of invisible formatting to the text you type. Notepad is a text editor, but it is too limited. \\
+  Examples of free good text editors suitable for beginners are [[https://code.visualstudio.com/download][Visual Studio Code]], [[https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows][Atom]], [[https://notepad-plus-plus.org/downloads/][Notepad++]], [[https://www.sublimetext.com/3][Sublime Text]]. Once you have installed one, it would be a good idea to familiarize yourself with it a little bit.
 
 * Resources
