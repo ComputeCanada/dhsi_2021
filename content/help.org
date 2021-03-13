@@ -1,6 +1,14 @@
 #+title: Help & Info
 #+slug: help
 
+* Instructors
+
+There are 3 instructors for this course:
+
+- Grace Fishbein, from [[https://www.ace-net.ca/][ACENET]]
+- Lydia Vermeyden, from [[https://www.ace-net.ca/][ACENET]]
+- [[https://marie-helene-burle.netlify.com][Marie-Helene (Marie) Burle]], from [[https://westgrid.ca][WestGrid]]
+
 * Software installation
 
 Anaconda:
