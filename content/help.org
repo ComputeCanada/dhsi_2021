@@ -11,11 +11,11 @@ There are 3 instructors for this course:
 
 * Software installation
 
-You will need to install a number of software on your machine:
+You will need to install a number of software on your machine for this course:
 
-- [[https://docs.anaconda.com/anaconda/install/][Anaconda]] \\
+- [[https://docs.anaconda.com/anaconda/install/][Anaconda]]. \\
   This will install Python and many Python packages and tools.
-- Windows users only: [[https://gitforwindows.org/][Git for Windows]] \\
+- Windows users only: [[https://gitforwindows.org/][Git for Windows]]. \\
   We will not use Git in this workshop, but this software comes with a Bash emulation and we will use Bash a little. Linux and MacOS users do not need to install this as they already have Bash on their system.
 - Once you have a terminal and Anaconda installed, you will be able to install [[https://jupyter.org/install][JupyterLab]]. \\
   As this installation requires the use of the command line, if you have issues, we will help you with that one at the start of the course.
