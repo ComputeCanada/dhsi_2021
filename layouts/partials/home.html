@@ -1,0 +1,44 @@
+<section class="container centered">
+  <div class="about">
+    <!-- {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }} -->
+    <!-- {{ with .Site.Params.avatarurl }} -->
+    <!-- <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div> -->
+    <!-- {{ end }} -->
+    <!-- {{ end }} -->
+    <!-- {{ with .Site.Params.gravatar }} -->
+    <!-- <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div> -->
+    <!-- {{ end }} -->
+    {{ with .Site.Params.wgavatar }}
+    <div>
+      <a href="https://dhsi.org/">
+	<img src="{{ . | relURL }}" alt="dhsiavatar">
+      </a>
+    </div>
+    <br>
+    <br>
+    {{ end }}
+    <h1>{{ .Site.Params.info }}</h1>
+    <br>
+    <br>
+    <div id="frontdates">
+      <div class="left"><a href="/day1">Introduction</a></div>
+      <div class="right">Monday, June 14</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day2">Python</a></div>
+      <div class="right">Tuesday, June 15</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day3">More on Python</a></div>
+      <div class="right">Wednesday, June 16</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day4">On your own!</a></div>
+      <div class="right">Thursday, June 17</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day5">Project presentations</a></div>
+      <div class="right">Friday, June 18</div>
+    </div>
+  </div>
+</section>
