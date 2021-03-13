@@ -1,8 +1,7 @@
 .footer {
   width: 100%;
   text-align: center;
-  line-height: 2.0rem;
-  margin-bottom: 1.0rem;
+  line-height: 4.0rem;
   font-size: 1.7rem;
   color: #737373;
   a {
@@ -11,11 +10,11 @@
   .footcontent {
     a, span {
       display: inline;
-      font-size: 1.6rem;
+      font-size: 1.8rem;
       font-family: $heading-font-family;
       font-weight: 700;
       line-height: 3.0rem;
-      color: $fg-color;
+      color: $link-color;
     }
     a {
       &:hover,
