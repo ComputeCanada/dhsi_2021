@@ -24,3 +24,8 @@ You will need to install a number of software on your machine for this course:
   Examples of free good text editors suitable for beginners are [[https://code.visualstudio.com/download][Visual Studio Code]], [[https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows][Atom]], [[https://notepad-plus-plus.org/downloads/][Notepad++]], [[https://www.sublimetext.com/3][Sublime Text]]. Once you have installed one, it would be a good idea to familiarize yourself with it a little bit.
 
 * Resources
+* Example of projects
+
+You can find example scripts from past projects in [[][this Google Drive]].
+
+Feel free to use some of the code to help you build your own code.
