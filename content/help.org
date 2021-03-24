@@ -87,8 +87,8 @@ There are many books on Python, several of which can be accessed online for free
 7. *Beginning Programming with Python for Dummies*, by John Paul Mueller
 8. *Python for Everybody*, by Charles Severance
 
-* Example of projects
+* Example scripts from past projects
 
 You can find example scripts from past projects in [[https://drive.google.com/drive/u/1/folders/0AA-7dFhKj4DXUk9PVA][this Google Drive folder]].
 
-Feel free to use some of the code to help you build your own code.
+Feel free to use some of the code to build your own project.
