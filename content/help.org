@@ -101,6 +101,6 @@ There are many books on Python, several of which can be accessed online for free
 
 * Example scripts from past projects
 
-You can find example scripts from past projects in [[https://drive.google.com/drive/u/1/folders/0AA-7dFhKj4DXUk9PVA][this Google Drive folder]].
+You can find example scripts from past projects in [[https://drive.google.com/drive/u/1/folders/1m0P_p9rnZB3WA00G8gFWCCxcQRmP_shC][this Google Drive folder]].
 
 Feel free to use some of the code to build your own project.
