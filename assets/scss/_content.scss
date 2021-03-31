@@ -402,12 +402,12 @@ ul {
     // font-family: $heading-font-family;
     display: table-cell;
     width: 28.0rem;
-    @media only screen and (max-width : 480px) {
-      width: 21.0rem;
-    }
     // text-align: right;
     text-align: left;
     font-weight: bold;
+    @media only screen and (max-width : 480px) {
+      width: 18.0rem;
+    }
   }
   .right {
     font-family: $heading-font-family;
