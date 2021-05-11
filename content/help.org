@@ -28,7 +28,7 @@ Dive into Python
 Project Boosters \\
 Specialty Topics in Breakout rooms
 
-**Project Selection
+* Project Selection
 There will be an independent study project as part of the course, for which we will assign small groups (2-3 people depending on shared interests). We have built a google form to help us assign groups and projects. Please fill out the form no later than May 14th as this will allow us to plan for projects and groups ahead of time and tailor content accordingly. 
 Google form for project selection:
 [[https://docs.google.com/forms/d/e/1FAIpQLSd5Od8NJcK8MFrcSB3px0Op64qyMyd6Gqt3lOfOEto24E5DCA/viewform?usp=sf_link][Project Selection Form]]
