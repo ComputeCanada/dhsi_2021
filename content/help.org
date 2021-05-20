@@ -47,6 +47,11 @@ This is similar to web scraping and is also all about gathering data. Some websi
 
 This is a tool that came out of machine learning, and it uses an algorithm to sort textual data at the individual word level. It treats the textual data like a "bag of words" or "several bags of words" for multiple manuscripts and collects the text words into topics. These topics are defined by a set number of keywords, and gives the researcher an insight into the kinds of words that are clustering together in their textual dataset. 
 
+**** Natural language processing (NLP)
+
+[[https://en.wikipedia.org/wiki/Natural_language_processing][Natural language processing]] is a subfield of artificial intelligence focusing on the computational processing of human languages. Its applications are diverse and include language translation, predictive text, message filtering, text analytics, survey analysis, voice assistants, processing of notes...\\
+With the explosion of machine learning techniques such as deep neural networks in recent years, this field has become extremely active, with rapidly growing potential.
+
 **** Interactive game 1
 
 Build a text based adventure game based on a theme of your choice.
