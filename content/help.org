@@ -29,7 +29,7 @@ Dive into Python
 10:45 - 11:00am 	Break \\
 11:00 - 12:45am 	Room 1: Natural Language Processing; Room 2: API querying \\
 12:45 - 1:00pm 	Group Q&A \\
-1:00 - 2:00 pm Optional: Installation help for those doing topic modeling \\
+1:00 - 2:00 pm Optional: Installation help for those doing topic modeling 
 
 * Project selection
 
