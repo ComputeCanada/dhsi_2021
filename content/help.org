@@ -24,9 +24,12 @@ Lessons 1, 2 and 3 \\
 Dive into Python
 
 *** Day 3
-
-Project Boosters \\
-Specialty Topics in Breakout rooms
+7:00 - 9:00am Optional: Installation help for those doing topic modeling\\
+9:00 - 10:45am		Room 1: Topic Modeling; Room 2: Web Scraping \\
+10:45 - 11:00am 	Break \\
+11:00 - 12:45am 	Room 1: Natural Language Processing; Room 2: API querying \\
+11:15 - 1:00pm 	Intro to Python \\
+1:00 - 2:00 pm Optional: Installation help for those doing topic modeling \\
 
 * Project selection
 
