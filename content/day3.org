@@ -3,9 +3,9 @@
 
 {{<cor>}}Wednesday, June 16{{</cor>}} \\
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}} \\
-\\
+
 {{<cgr>}}9:00 am PT Room 1: Topic Modeling, Room 2 Web Scraping{{</cgr>}} \\
 {{<cgr>}}10:45 am PT Break{{</cgr>}} \\
 {{<cgr>}}11:00 am PT Room 1: NLP, Room 2 API Querying{{</cgr>}} \\
 {{<cgr>}}12:45 pm PT Q&A{{</cgr>}} \\
-{{<cgr>}}1:00 pm PT Break for the day{{</cgr>}} \\
+{{<cgr>}}1:00 pm PT Break for the day{{</cgr>}} 
