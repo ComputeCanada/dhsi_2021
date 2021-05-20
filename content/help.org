@@ -28,10 +28,11 @@ Dive into Python
 Project Boosters \\
 Specialty Topics in Breakout rooms
 
-* Project Selection
-There will be an independent study project as part of the course, for which we will assign small groups (2-3 people depending on shared interests). We have built a google form to help us assign groups and projects. Please fill out the form no later than May 14th as this will allow us to plan for projects and groups ahead of time and tailor content accordingly. 
+* Project selection
+
+There will be an independent study project as part of the course, for which we will assign small groups (2-3 people depending on shared interests). We have built a google form to help us assign groups and projects. Please fill out the form no later than May 14th as this will allow us to plan for projects and groups ahead of time and tailor content accordingly.\\
 Google form for project selection:
-[[https://docs.google.com/forms/d/e/1FAIpQLSd5Od8NJcK8MFrcSB3px0Op64qyMyd6Gqt3lOfOEto24E5DCA/viewform?usp=sf_link][Project Selection Form]]
+[[https://docs.google.com/forms/d/e/1FAIpQLSd5Od8NJcK8MFrcSB3px0Op64qyMyd6Gqt3lOfOEto24E5DCA/viewform?usp=sf_link][Project Selection Form]].\\
 If you don't have a project in mind you would like to complete there are several suggestions to choose from on the form:
 
 *Web scraping*: this is an automated way to pull specific data from webpages. So this could be text, links, images etc., but the key is that this data is kept on web pages in a format and quantity such that it is difficult or time consuming to gather manually. Consider, you want to gather all the public health notices on all public health canadian websites that mention "lockdown". there are going to be several websites with information that is not in an easily exportable form. Perhaps you want to do this repeatedly over time. Python allows you to write a script that can gather this data for you automatically.
