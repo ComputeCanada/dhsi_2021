@@ -35,19 +35,33 @@ Google form for project selection:
 [[https://docs.google.com/forms/d/e/1FAIpQLSd5Od8NJcK8MFrcSB3px0Op64qyMyd6Gqt3lOfOEto24E5DCA/viewform?usp=sf_link][Project Selection Form]].\\
 If you don't have a project in mind you would like to complete there are several suggestions to choose from on the form:
 
-*Web scraping*: this is an automated way to pull specific data from webpages. So this could be text, links, images etc., but the key is that this data is kept on web pages in a format and quantity such that it is difficult or time consuming to gather manually. Consider, you want to gather all the public health notices on all public health canadian websites that mention "lockdown". there are going to be several websites with information that is not in an easily exportable form. Perhaps you want to do this repeatedly over time. Python allows you to write a script that can gather this data for you automatically.
+**** Web scraping
 
-*API Querying*: This is similar to web scraping and is also all about gathering data. Some websites (like twitter) have an application programming interface (API) . This is basically a little application over the big application (twitter for example) that can extract data from the big application and respond to commands from programs like python. Lots of social media platforms and many popular websites have APIs that can be used to gather curated datasets. (ex. I want all the tweets in the last month containing "snow in April").
+This is an automated way to pull specific data from webpages. So this could be text, links, images etc., but the key is that this data is kept on web pages in a format and quantity such that it is difficult or time consuming to gather manually. Consider, you want to gather all the public health notices on all public health canadian websites that mention "lockdown". there are going to be several websites with information that is not in an easily exportable form. Perhaps you want to do this repeatedly over time. Python allows you to write a script that can gather this data for you automatically.
 
-*Topic Modeling*: This is a tool that came out of machine learning, and it uses an algorithm to sort textual data at the individual word level. It treats the textual data like a "bag of words" or "several bags of words" for multiple manuscripts and collects the text words into topics. These topics are defined by a set number of keywords, and gives the researcher an insight into the kinds of words that are clustering together in their textual dataset. 
+**** API querying
 
-*Interactive game 1* - build a text based adventure game based on a theme of your choice
+This is similar to web scraping and is also all about gathering data. Some websites (like twitter) have an application programming interface (API) . This is basically a little application over the big application (twitter for example) that can extract data from the big application and respond to commands from programs like python. Lots of social media platforms and many popular websites have APIs that can be used to gather curated datasets. (ex. I want all the tweets in the last month containing "snow in April").
 
-*Interactive game 2* - build an interactive rock-paper-scissors (-lizard - Spock) game
+**** Topic modelling
 
-*Interactive game 3* - build a mad libs generator
+This is a tool that came out of machine learning, and it uses an algorithm to sort textual data at the individual word level. It treats the textual data like a "bag of words" or "several bags of words" for multiple manuscripts and collects the text words into topics. These topics are defined by a set number of keywords, and gives the researcher an insight into the kinds of words that are clustering together in their textual dataset. 
 
-*Custom notifications* - build a desktop notification application which gives you notifications based on your specific criteria
+**** Interactive game 1
+
+Build a text based adventure game based on a theme of your choice.
+
+**** Interactive game 2
+
+Build an interactive rock-paper-scissors (-lizard - Spock) game.
+
+**** Interactive game 3
+
+Build a mad libs generator.
+
+**** Custom notification
+
+Build a desktop notification application which gives you notifications based on your specific criteria.
 
 * Software installation
 
