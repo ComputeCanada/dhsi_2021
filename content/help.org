@@ -153,8 +153,8 @@ There are many books on Python, several of which can be accessed online for free
 7. *Beginning Programming with Python for Dummies*, by John Paul Mueller
 8. *Python for Everybody*, by Charles Severance
 
-* Example scripts from past projects
+* Course Lessons and Materials
 
-You can find example scripts from past projects in [[https://drive.google.com/drive/u/1/folders/1m0P_p9rnZB3WA00G8gFWCCxcQRmP_shC][this Google Drive folder]].
+You can find the lesson notes and the materials for the sessions on different days in [[https://drive.google.com/drive/folders/1FyGXECeTjiUnYWYUC2TmqZ1OaS-7uypi?usp=sharing][this Google Drive folder]]. It will also have code examples from past projects and everything from the coursepak (syllabus and readings)
 
-Feel free to use some of the code to build your own project.
+Feel free to use some of the code to build your own project, and create folders to share work within your project group.
