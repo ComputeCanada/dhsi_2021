@@ -2,5 +2,11 @@
 #+slug: day2
 
 {{<cor>}}Tuesday, June 15{{</cor>}} \\
-{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
+{{<cgr>}}*Connection Details:*[[https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0][Lesson Room Link]] {{</cgr>}}
 
+**Lesson Plan
+{{<cgr>}}9 am–11 am   Dive into Python part 1{{</cgr>}}\\
+-Lists
+-
+-
