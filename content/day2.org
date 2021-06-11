@@ -7,7 +7,7 @@
 
 ** Lesson Plan
 -----
-Dive into Python part 1 9:00 am - 11:00 am\\
+Dive into Python part 1 9:00 am - 11:00 am 
 - Lists
 - Dictionaries
 - Loops
