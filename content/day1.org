@@ -10,8 +10,9 @@
 ** Lesson Plan 
 -----
 [[https://drive.google.com/drive/folders/1H1DxIlkvPKTmjHgA9v1lJfib9CwE7SqQ?usp=sharing][*Lesson Notes*]]
+
 Introductions and course plan 9:00 am - 9:15 am
-Using the Command line 9:15 am - 11:00 am [[https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing][Lesson Notes]]
+Using the Command line 9:15 am - 11:00 am 
 - Lists
 - Loops
 - Dictionaries
