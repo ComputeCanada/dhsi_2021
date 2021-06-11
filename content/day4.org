@@ -2,5 +2,19 @@
 #+slug: day4
 
 {{<cor>}}Thursday, June 17{{</cor>}} \\
-{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+Office hours
+{{<cgr>}}5:30 am–5:30 pm Pacific Time{{</cgr>}}
+
+** Instructor Schedule and Expertise
+- Lydia: 5:30 am - 10:30 am, 3:30 pm - 5:00 pm
+-- General Python
+-- Topic Modeling
+-- API Querying
+-- Web Scraping
+- Marie: 10:30 am - 11:30 am, 1:30 pm - 5:30 pm
+-- General Python
+-- NLP
+-Grace: 7:30 am - 10:30 am, 11:30 am - 1:30 pm
+-- General Python
+-- Web Scraping
 
