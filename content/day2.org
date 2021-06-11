@@ -9,7 +9,7 @@
 
 ** Lesson Plan
 -----
-*[[https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing][Lesson Notes part 1]]*
+[[https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing][*Lesson Notes Part 1*]]
 
 Dive into Python part 1 9:00 am - 11:00 am 
 - Lists
