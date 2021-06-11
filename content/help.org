@@ -14,8 +14,7 @@ There are 3 instructors for this course:
 *** Day 1
 
 9:00 - 9:15am		Introductions and Course Plan \\
-9:15 - 11:00am 	Command Line: http://swcarpentry.github.io/shell-novice/ \\
-Lessons 1, 2 and 3 \\
+9:15 - 11:00am Intro to	Command Line \\
 11:00 - 11:15am 	Break \\
 11:15 - 1:00pm 	Intro to Python
 
@@ -26,12 +25,9 @@ Lessons 1, 2 and 3 \\
 11:15 - 1:00pm 	Dive into Python part 2
 
 *** Day 3
-7:00 - 9:00am Optional: Installation help for those doing topic modeling\\
-9:00 - 10:45am		Room 1: Topic Modeling; Room 2: Web Scraping \\
-10:45 - 11:00am 	Break \\
-11:00 - 12:45am 	Room 1: Natural Language Processing; Room 2: API querying \\
-12:45 - 1:00pm 	Group Q&A \\
-1:00 - 2:00 pm Optional: Installation help for those doing topic modeling 
+9:00 - 11:00am		Room 1: Topic Modeling; Room 2: Web Scraping \\
+11:00 - 11:15am 	Break \\
+11:15 - 1:00am 	Room 1: Natural Language Processing; Room 2: API querying \\
 
 *** Day 4
 5:30 am -5:30 pm Office hours 
