@@ -5,7 +5,7 @@
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}} \\
 *Connection Details:* [[https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0][Lesson Room Link]]
 
-*Extral materials are required for day 3 for topic modeling. You will need a python code booklet and a data folder extracted and save to the same folder on your computer. It needs to be in a location you can find easily, so you can make it your working directory in Jupyter lab*
+*There are no extra materials required for day 3, but some sessions will have you working in a virtual jupyter environment, we will provide you with login information at the beginning.*
 
 Room 1: Topic Modeling, Room 2: Web Scraping 9:00 - 11:00 am  \\
 Break 11:00 - 11:15 am \\
