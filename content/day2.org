@@ -5,9 +5,18 @@
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
 *Connection Details:* [[https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0][Lesson Room Link]]
 
+
 ** Lesson Plan
 -----
-Dive into Python part 1 9:00 am - 11:00 am 
+*There are no extra materials required for day 2*
+Dive into Python part 1 9:00 am - 11:00 am [[https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing][Lesson Notes]]
 - Lists
-- Dictionaries
 - Loops
+- Dictionaries
+- Conditionals
+Break 11:00 - 11:15 am
+Dive into Python part 2 11:15 am - 1:00 pm
+- Working with files
+- Writing functions
+- Introduction to Pandas
+
