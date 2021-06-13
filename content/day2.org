@@ -19,7 +19,7 @@
 - Dictionaries
 - Conditionals
   
-***** Break (11:00–11:15 am)
+*** Break (11:00–11:15 am)
 
 *** Dive into Python—Part 2 (11:15–1:00 pm)
 

@@ -20,7 +20,7 @@
 - Navigating the file system
 - Working with files and directories
 
-***** Break (11:00–11:15 am)
+*** Break (11:00–11:15 am)
 
 *** Introduction to Python (11:15 am–1:00 pm)
 
