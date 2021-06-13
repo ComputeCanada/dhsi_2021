@@ -44,7 +44,7 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 
 *** Natural Language Processing (11:15 am–1:00 pm)
 
-{{<a "https://dhsi-2021.netlify.app/nlp" "Lesson Notes NLP">}}
+[[/nlp][Lesson Notes NLP]]
 
 *** API Querying (11:15 am–1:00 pm)
 

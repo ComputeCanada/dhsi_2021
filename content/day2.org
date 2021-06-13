@@ -24,7 +24,7 @@
 
 *** Dive into Python—Part 2 (11:15 am–1:00 pm)
 
-{{<a "https://dhsi-2021.netlify.app/notes_part2" "Lesson Notes Part 2">}}
+[[/notes_part2][Lesson Notes Part 2]]
 
 - Working with files
 - Writing functions
