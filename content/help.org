@@ -13,30 +13,30 @@ There are 3 instructors for this course:
 
 *** Day 1
 
-9:00 - 9:15am		Introductions and Course Plan \\
-9:15 - 11:00am Intro to	Command Line \\
-11:00 - 11:15am 	Break \\
-11:15 - 1:00pm 	Intro to Python
+9:00–9:15am		Introductions and Course Plan \\
+9:15–11:00am Intro to	Command Line \\
+11:00–11:15am 	Break \\
+11:15–1:00pm 	Intro to Python
 
 *** Day 2
 
-9:00 - 11:00am 	Dive into Python part 1 \\
-11:00 - 11:15am 	Break \\
-11:15 - 1:00pm 	Dive into Python part 2
+9:00–11:00am 	Dive into Python part 1 \\
+11:00–11:15am 	Break \\
+11:15–1:00pm 	Dive into Python part 2
 
 *** Day 3
-9:00 - 11:00am		Room 1: Topic Modeling; Room 2: Web Scraping \\
-11:00 - 11:15am 	Break \\
-11:15 - 1:00am 	Room 1: Natural Language Processing; Room 2: API querying \\
+9:00–11:00am		Room 1: Topic Modeling; Room 2: Web Scraping \\
+11:00–11:15am 	Break \\
+11:15–1:00am 	Room 1: Natural Language Processing; Room 2: API querying \\
 
 *** Day 4
 5:30 am -5:30 pm Office hours 
 
 *** Day 5
 5:30 -8:30 am
-9:00 - 11:00am 	Project Presentations \\
-11:00 - 11:15am 	Break \\
-11:15 - 1:00pm 	Project Presentations
+9:00–11:00am 	Project Presentations \\
+11:00–11:15am 	Break \\
+11:15–1:00pm 	Project Presentations
 
 * Project selection
 
@@ -68,7 +68,7 @@ Build a text based adventure game based on a theme of your choice.
 
 **** Interactive game 2
 
-Build an interactive rock-paper-scissors (-lizard - Spock) game.
+Build an interactive rock-paper-scissors (-lizard–Spock) game.
 
 **** Interactive game 3
 

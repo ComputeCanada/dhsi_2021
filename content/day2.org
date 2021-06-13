@@ -10,7 +10,7 @@
 ** Lesson Plan
 -----
 
-*** Dive into Python—Part 1 (9:00 am–11:00 am)
+*** Dive into Python—Part 1 (9:00–11:00 am)
 
 {{<a "https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing" "Lesson Notes Part 1">}}
 
@@ -19,9 +19,9 @@
 - Dictionaries
 - Conditionals
   
-***** Break 11:00–11:15 am
+***** Break (11:00–11:15 am)
 
-*** Dive into Python—Part 2 (11:15 am–1:00 pm)
+*** Dive into Python—Part 2 (11:15–1:00 pm)
 
 - Working with files
 - Writing functions

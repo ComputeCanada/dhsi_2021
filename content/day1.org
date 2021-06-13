@@ -10,14 +10,20 @@
 ** Lesson Plan 
 -----
 
-Introductions and course plan 9:00 am - 9:15 am \\
-Using the Command line 9:15 am - 11:00 am 
 {{<a "https://drive.google.com/drive/folders/1H1DxIlkvPKTmjHgA9v1lJfib9CwE7SqQ?usp=sharing" "Lesson Notes">}}
+
+*** Introductions and course plan (9:00–9:15 am)
+
+*** Using the Command line (9:15–11:00 am)
+
 - Introducing the shell
 - Navigating the file system
 - Working with files and directories
-Break 11:00 - 11:15 am \\
-Introduction to Python 11:15 am - 1:00 pm
+
+***** Break (11:00–11:15 am)
+
+*** Introduction to Python (11:15 am–1:00 pm)
+
 - Jupyter Lab
 - Variables and Assignment
 - Data Types and Type conversion
