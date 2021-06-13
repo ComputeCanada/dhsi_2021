@@ -3,7 +3,7 @@
 
 {{<cor>}}Monday, June 14{{</cor>}} \\
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
-*Connection Details:* [[https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0][Lesson Room Link]]
+*Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}
 
 *There are no extra materials required for day 1, but there is software installation, please see the* [[https://dhsi-2021.netlify.app/help/][Help and info page]] *for instructions*
 
