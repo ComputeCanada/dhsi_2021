@@ -24,16 +24,8 @@
 
 *** Dive into Python—Part 2 (11:15 am–1:00 pm)
 
-[[https://dhsi-2021.netlify.app/day2/#headline-5][Lesson Notes Part 2]]
+{{<a "https://dhsi-2021.netlify.app/notes_part2" "Lesson Notes Part 2">}}
 
 - Working with files
 - Writing functions
 - Introduction to Pandas
-{{<br size="1">}}
-
------
-{{<br size="1">}}
-
-****** /Lesson Notes Part 2/
-
-
