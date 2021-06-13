@@ -1,7 +1,8 @@
 #+title: Day 5 – Project presentations
 #+slug: day5
 
-{{<cor>}}Friday, June 18{{</cor>}} \\
+{{<cor>}}Friday, June 18{{</cor>}}
+
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}} \\
 *Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}
 
