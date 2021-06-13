@@ -2,26 +2,27 @@
 #+slug: day4
 
 {{<cor>}}Thursday, June 17{{</cor>}} \\
-Office hours\\
 {{<cgr>}}5:30 am–5:30 pm Pacific Time{{</cgr>}} \\
 *Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}
 
-** Instructor Schedule and Expertise
+** Office hours
 -----
 
-*** Lydia (5:30–10:30 am & 3:30–5:00 pm)
+*** Instructor Schedule and Expertise:
+
+***** Lydia (5:30–10:30 am & 3:30–5:00 pm)
 
   - General Python
   - Topic Modeling
   - API Querying
   - Web Scraping
   
-*** Marie (10:30–11:30 am & 1:30–5:30 pm)
+***** Marie (10:30–11:30 am & 1:30–5:30 pm)
 
  - General Python
  - NLP
 
-*** Grace (7:30–10:30 am & 11:30 am–1:30 pm)
+***** Grace (7:30–10:30 am & 11:30 am–1:30 pm)
 
   - General Python
   - Web Scraping
