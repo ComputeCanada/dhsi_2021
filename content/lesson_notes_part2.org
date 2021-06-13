@@ -1,0 +1,8 @@
+#+title: Dive into Python—Part 2
+#+subtitle: Lesson Notes
+#+slug: notes_part2
+
+{{<cor>}}Tuesday, June 15{{</cor>}}
+
+{{<cgr>}}11:15 am–1:00 pm{{</cgr>}} \\
+*Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}
