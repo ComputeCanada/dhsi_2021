@@ -21,7 +21,10 @@
 ***** Marie (10:30–11:30 am & 1:30–5:30 pm)
 
  - General Python
- - NLP
+ - Machine Learning
+ - Deep Learning
+ - Neural Networks
+ - Natural Language Processing
 
 ***** Grace (7:30–10:30 am & 11:30 am–1:30 pm)
 
