@@ -10,10 +10,11 @@
 Room 1: Topic Modeling, Room 2: Web Scraping 9:00 - 11:00 am  \\
 Break 11:00 - 11:15 am \\
 Room 1: NLP, Room 2: API Querying 11:15 am - 1:00 pm 
+
 ** Lesson Plan
 -----
-[[https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing][*Lesson Notes*]]
 
+{{<a "https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing" "Lesson Notes">}}
 *Some special topics have materials, such as codebooks, but no specific notes*
 
 Topic Modeling 9:00 am - 11:00 am 
