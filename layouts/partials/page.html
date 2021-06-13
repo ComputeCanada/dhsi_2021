@@ -2,8 +2,10 @@
   <article>
     <header>
       <h1>{{ .Title }}</h1>
+      {{ with .Page.Params.Subtitle }}
+      <subtitle>{{ . }}</subtitle>
+      {{ end }}
     </header>
-
     {{ .Content }}
   </article>
 </section>
