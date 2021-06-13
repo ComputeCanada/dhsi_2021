@@ -9,15 +9,20 @@
 
 ** Lesson Plan
 -----
+
+*** Dive into Python—Part 1 (9:00 am–11:00 am)
+
 [[https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing][*Lesson Notes Part 1*]]
 
-Dive into Python part 1 9:00 am - 11:00 am 
 - Lists
 - Loops
 - Dictionaries
 - Conditionals
-Break 11:00 - 11:15 am
-Dive into Python part 2 11:15 am - 1:00 pm
+  
+***** Break 11:00–11:15 am
+
+*** Dive into Python—Part 2 (11:15 am–1:00 pm)
+
 - Working with files
 - Writing functions
 - Introduction to Pandas
