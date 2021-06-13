@@ -7,9 +7,13 @@
 
 *There are no extra materials required for day 3, but some sessions will have you working in a virtual jupyter environment, we will provide you with login information at the beginning.*
 
-Room 1: Topic Modeling, Room 2: Web Scraping 9:00–11:00 am  \\
-Break 11:00–11:15 am \\
-Room 1: NLP, Room 2: API Querying 11:15 am–1:00 pm
+/Room 1: Topic Modeling (9:00–11:00 am) \\
+Room 2: Web Scraping (9:00–11:00 am)/
+
+/Break (11:00–11:15 am)/
+
+/Room 1: NLP (11:15 am–1:00 pm) \\
+Room 2: API Querying (11:15 am–1:00 pm)/
 
 ** Lesson Plan
 -----
