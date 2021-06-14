@@ -19,7 +19,7 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 ** Lesson Plan
 -----
 
-{{<a "https://drive.google.com/file/d/1KKkZqyX8E56MjxKcd3C8Wsx5awaBzIk4/view?usp=sharing" "Lesson Notes">}}
+{{<a "https://drive.google.com/drive/folders/1dICcHZOtOqfEbhNpG4vBoXH0kDXy_9FJ?usp=sharing" "Lesson Notes">}}
 
 *Some special topics have materials, such as codebooks, but no specific notes*
 
