@@ -14,3 +14,11 @@ For this session and for all sessions tomorrow, you are welcome to use our train
 To access the JupyterHub, you will need a username and password that I will give you in this course and you can find instructions in {{<a "https://dhsi-2021.netlify.app/help/#headline-22" "our help page">}}.
 
 The username and password will remain valid for the entire week, so write them down somewhere and keep them at hand.
+* Introduction to Pandas
+
+For this section, we will use the Covid-19 data from the {{<a "https://github.com/CSSEGISandData/COVID-19" "Johns Hopkins University CSSE repository.">}}
+
+I already uploaded the two files we will use onto our JupyterHub. They are at: ~/project/def-sponsor00/dhsi/covid_confirmed.csv~ and ~/project/def-sponsor00/dhsi/covid_dead.csv~.
+
+For those who want to work on their own machine, those files are also in {{<a "https://drive.google.com/drive/u/1/folders/1A-geyO7vQ6gND61zHBukTJeWMr9-pBMy" "our GoogleDrive">}}. You can download them from there, but you will have to make sure to change the code to match the paths of the files on your machine when you read them into Python.
+
