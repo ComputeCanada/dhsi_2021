@@ -78,6 +78,32 @@ Build a mad libs generator.
 
 Build a desktop notification application which gives you notifications based on your specific criteria.
 
+* Software installation
+
+You will need to install a number of software on your machine for this course.
+
+*** Python and Python packages
+
+The simplest way to install Python and a number of very useful packages and tools is to install [[https://docs.anaconda.com/anaconda/install/][Anaconda]]. Follow the instructions from that link for your operating system.
+
+*** Terminal
+
+/Linux and MacOS users already have a terminal. So this section is for Windows users only./
+
+Windows users should install [[https://gitforwindows.org/][Git for Windows]]. While we will not use Git in this course, this software comes with a good Bash emulation called "Git Bash".
+
+*** JupyterLab
+ 
+Once you have a terminal and Anaconda installed, you will be able to install [[https://jupyter.org/install][JupyterLab]]. As this installation requires the use of the command line, we will help you with this at the start of the course if you have any issues.
+
+*** A good text editor
+
+Microsoft Word and other word processors are not text editors: they add a lot of invisible formatting to the text you type. For this course, you need a text editor, so they are not suitable.
+
+Notepad—which comes with Windows—is a text editor, but it is too limited.
+
+Examples of good free text editors suitable for beginners are [[https://code.visualstudio.com/download][Visual Studio Code]], [[https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows][Atom]], [[https://notepad-plus-plus.org/downloads/][Notepad++]], [[https://www.sublimetext.com/3][Sublime Text]]. Once you have installed one, it would be a good idea to familiarize yourself with it.
+
 * Access to our training JupyterHub
 
 For this course, we will use a temporary JupyterHub.
@@ -104,33 +130,6 @@ Here is how to log in:
 #+BEGIN_note
 Please note that, unlike other JupyterHubs you might have used, this JupyterHub is not permanent and can only be used for this course.
 #+END_note
-
-
-* Software installation
-
-You will need to install a number of software on your machine for this course.
-
-*** Python and Python packages
-
-The simplest way to install Python and a number of very useful packages and tools is to install [[https://docs.anaconda.com/anaconda/install/][Anaconda]]. Follow the instructions from that link for your operating system.
-
-*** Terminal
-
-/Linux and MacOS users already have a terminal. So this section is for Windows users only./
-
-Windows users should install [[https://gitforwindows.org/][Git for Windows]]. While we will not use Git in this course, this software comes with a good Bash emulation called "Git Bash".
-
-*** JupyterLab
- 
-Once you have a terminal and Anaconda installed, you will be able to install [[https://jupyter.org/install][JupyterLab]]. As this installation requires the use of the command line, we will help you with this at the start of the course if you have any issues.
-
-*** A good text editor
-
-Microsoft Word and other word processors are not text editors: they add a lot of invisible formatting to the text you type. For this course, you need a text editor, so they are not suitable.
-
-Notepad—which comes with Windows—is a text editor, but it is too limited.
-
-Examples of good free text editors suitable for beginners are [[https://code.visualstudio.com/download][Visual Studio Code]], [[https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows][Atom]], [[https://notepad-plus-plus.org/downloads/][Notepad++]], [[https://www.sublimetext.com/3][Sublime Text]]. Once you have installed one, it would be a good idea to familiarize yourself with it.
 
 * Resources
 
