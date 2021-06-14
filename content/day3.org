@@ -19,7 +19,9 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 ** Lesson Plan
 -----
 
-{{<a "https://drive.google.com/drive/folders/1dICcHZOtOqfEbhNpG4vBoXH0kDXy_9FJ?usp=sharing" "Lesson Notes">}}
+{{<a "https://drive.google.com/drive/folders/1dICcHZOtOqfEbhNpG4vBoXH0kDXy_9FJ?usp=sharing" "Lesson Notes, except NLP">}}
+
+[[/nlp][Lesson Notes and details for NLP]]
 
 *Some special topics have materials, such as codebooks, but no specific notes*
 
@@ -43,8 +45,6 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 *** Break (11:00–11:15 am)
 
 *** Natural Language Processing (11:15 am–1:00 pm)
-
-[[/nlp][Lesson Notes NLP]]
 
 *** API Querying (11:15 am–1:00 pm)
 
