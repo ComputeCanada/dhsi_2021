@@ -78,6 +78,34 @@ Build a mad libs generator.
 
 Build a desktop notification application which gives you notifications based on your specific criteria.
 
+* Access to our training JupyterHub
+
+For this course, we will use a temporary JupyterHub.
+
+Here is how to log in:
+
+- Go to [[https://uu.c3.ca][https://uu.c3.ca]].
+- Sign in with the username & password we will give you during the course.
+- Set the server options according to the image below:
+
+{{<imgm src="/img/jh_widget_nw.png" margin="4rem 0 0 0" title="" width="%" line-height="0rem">}}
+{{</imgm>}}
+
+#+BEGIN_note
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} *These are the only values that you should edit:* \\
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Change the time to *8.0* \\
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Change the memory to *2000* \\
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Make sure the interface is set to *JupyterLab*
+#+END_note
+{{<br size="5">}}
+
+- Press start.
+   
+#+BEGIN_note
+Please note that, unlike other JupyterHubs you might have used, this JupyterHub is not permanent and can only be used for this course.
+#+END_note
+
+
 * Software installation
 
 You will need to install a number of software on your machine for this course.
@@ -105,6 +133,7 @@ Notepad—which comes with Windows—is a text editor, but it is too limited.
 Examples of good free text editors suitable for beginners are [[https://code.visualstudio.com/download][Visual Studio Code]], [[https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows][Atom]], [[https://notepad-plus-plus.org/downloads/][Notepad++]], [[https://www.sublimetext.com/3][Sublime Text]]. Once you have installed one, it would be a good idea to familiarize yourself with it.
 
 * Resources
+
 ** Books
 
 There are many books on Python, several of which can be accessed online for free, either directly, or through your university.
