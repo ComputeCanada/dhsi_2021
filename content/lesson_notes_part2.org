@@ -16,7 +16,9 @@ To access the JupyterHub, you will need a username and password that I will give
 The username and password will remain valid for the entire week, so write them down somewhere and keep them at hand.
 * Introduction to Pandas
 
-For this section, we will use the Covid-19 data from the {{<a "https://github.com/CSSEGISandData/COVID-19" "Johns Hopkins University CSSE repository.">}}
+For this section, we will use the Covid-19 data from the {{<a "https://github.com/CSSEGISandData/COVID-19" "Johns Hopkins University CSSE repository.">}} I last accessed this database on Saturday, so the last day of data we will use is June 12, 2021.
+
+You can visualize this data in {{<a "https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6" "a dashboard">}} created by the Johns Hopkins University Center for Systems Science and Engineering.
 
 I already uploaded the two files we will use onto our JupyterHub. They are at: ~/project/def-sponsor00/dhsi/covid_confirmed.csv~ and ~/project/def-sponsor00/dhsi/covid_dead.csv~.
 
@@ -24,20 +26,24 @@ For those who want to work on their own machine, those files are also in {{<a "h
 
 ** Setup
 
+First, we need to load packages and read in the data.
+
 #+BEGIN_src python
-# Load the pandas library and create a shorter name for it
+# Load the pandas package and create a shorter name for it
 import pandas as pd
 
 # Read in data from a csv file
 cases = pd.read_csv('/project/def-sponsor00/dhsi/covid_confirmed.csv')
-
-# Print the data
-cases   # When not using Jupyter, you must use: print(cases)
 #+END_src
 
 ** First look at the data
 
+What does our data look like?
+
 #+BEGIN_src python
+# Print the data
+cases   # When not using Jupyter, you must use: print(cases)
+
 # Look at the first rows
 cases.head()
 cases.head(25)
@@ -77,3 +83,11 @@ totals.loc[:, '6/12/21']
 totals.loc[:, '6/12/21'].sort_values(ascending=False)
 #+END_src
 
+** Global totals
+
+Now, what if we want to have the world totals for each day?
+
+#+BEGIN_src python
+# Calculate the columns totals
+totals.sum()
+#+END_src
