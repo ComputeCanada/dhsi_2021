@@ -26,6 +26,5 @@
 
 [[/notes_part2][Lesson Notes Part 2]]
 
-- Working with files
 - Writing functions
 - Introduction to Pandas
