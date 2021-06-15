@@ -96,7 +96,7 @@ This was fun, but...
 
 #+BEGIN_src python
 # ...this does not work
-howdy('Marie', 'Alice')
+howdy('Marie', 'Paul')
 #+END_src
 
 *** Function with two arguments
@@ -110,7 +110,7 @@ def hey(name1, name2):
     print('Hello ' + name1 + ', ' + name2)
 
 # Which solved our problem
-hey('Marie', 'Alice')
+hey('Marie', 'Paul')
 #+END_src
 
 But it is terribly limiting:
@@ -123,7 +123,7 @@ hey()
 hey('Marie')
 
 # Nor to mention this...
-hey('Marie', 'Alice', 'Alex')
+hey('Marie', 'Paul', 'Alex')
 #+END_src
 
 *** Function which allow to pass any number of arguments
@@ -141,8 +141,8 @@ def hi(name='you', *args):
 # Everything works!
 hi()
 hi('Marie')
-hi('Marie', 'Alice')
-hi('Marie', 'Alice', 'Alex')
+hi('Marie', 'Paul')
+hi('Marie', 'Paul', 'Alex')
 #+END_src
 
 * Introduction to Pandas
