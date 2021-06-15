@@ -160,7 +160,7 @@ For reference, {{<a "https://pandas.pydata.org/docs/user_guide/index.html" "here
 
 ** Setup
 
-First, we need to load packages and read in the data.
+First, we need to load packages and read in the data:
 
 #+BEGIN_src python
 # Load the pandas package and create a shorter name for it
@@ -196,7 +196,9 @@ cases.describe()
 cases.dtypes
 #+END_src
 
-** Number of cases per country by decreasing values
+** Number of cases per country by decreasing order for any date
+
+Let's see what the numbers were for each country on June 12, 2021. And to make it easier to read, let's also order those numbers by decreasing order:
 
 #+BEGIN_src python
 # Let's get rid of the latitude and longitude to simplify our data
