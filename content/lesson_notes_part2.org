@@ -91,3 +91,12 @@ Now, what if we want to have the world totals for each day?
 # Calculate the columns totals
 totals.sum()
 #+END_src
+
+{{<challenge>}}
+<em>Try to work together to answer the following question.<br>
+Help each other out and make it a team effort!</em>
+<br>
+<br>
+How many people had <b>died</b> from Covid-19 in Venezuela by March 10, 2021?<br>
+(according to the available data)
+{{</challenge>}}
