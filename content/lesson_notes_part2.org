@@ -14,6 +14,138 @@ For this session and for all sessions tomorrow, you are welcome to use our train
 To access the JupyterHub, you will need a username and password that I will give you in this course and you can find instructions in {{<a "https://dhsi-2021.netlify.app/help/#headline-22" "our help page">}}.
 
 The username and password will remain valid for the entire week, so write them down somewhere and keep them at hand.
+
+* Writing functions
+
+So far, you have used functions that were built into Python (e.g. ~print~).\\
+In addition to those, countless packages allow to load additional functions into your session.
+
+But you can also build your own functions to do just exactly what you want.
+
+** General syntax
+
+Here is how you can define a new function in Python:
+
+#+BEGIN_src python
+def function_name(arguments):
+    Body of the function
+#+END_src
+
+** Our first functions
+
+Let's give this a try by creating some greeting functions.
+
+*** Function without argument
+
+Let's start with the simple case in which our function does not accept any argument:
+
+#+BEGIN_src python
+# We define our first function
+def hello():
+    print('Hello')
+
+# Then we can call it
+hello()
+#+END_src
+
+This was great, but...
+
+#+BEGIN_src python
+# ... it does NOT accept arguments, so this does not work
+hello('Marie')
+#+END_src
+
+*** Function which accept an argument
+
+Let's step this up with a function which can accept an argument:
+
+#+BEGIN_src python
+# We define a second function
+def greetings(name):
+    print('Hello ' + name)
+
+# Now, this time, this also works
+greetings('Marie')
+#+END_src
+
+However, now this does not work anymore:
+
+#+BEGIN_src python
+greetings()
+#+END_src
+
+:(
+
+*** Function with a facultative argument
+
+Let's make this even more fancy: let's create a function with a facultative argument. That is, a function which accepts an argument, but also has a default value for when we do not provide any argument:
+
+#+BEGIN_src python
+# Our third function
+def howdy(name='you'):
+    print('Hello ' + name)
+
+# That we call without argument (making use of the default value)
+howdy()
+
+# And with an argument
+howdy('Marie')
+#+END_src
+
+This was fun, but...
+
+#+BEGIN_src python
+# ...this does not work
+howdy('Marie', 'Alice')
+#+END_src
+
+*** Function with two arguments
+
+
+So we could create a function which takes two arguments:
+
+#+BEGIN_src python
+# Our two-argument function
+def hey(name1, name2):
+    print('Hello ' + name1 + ', ' + name2)
+
+# Which solved our problem
+hey('Marie', 'Alice')
+#+END_src
+
+But it is terribly limiting:
+
+#+BEGIN_src python
+# This doesn't work
+hey()
+
+# And neither does this
+hey('Marie')
+
+# Nor to mention this...
+hey('Marie', 'Alice', 'Alex')
+#+END_src
+
+*** Function which allow to pass any number of arguments
+
+So, let's create a truly great function which handles all of our cases:
+
+#+BEGIN_src python
+# Now, this one is the real deal
+def hi(name='you', *args):
+    result = ''
+    for i in args:
+        result += (', ' + i)
+    print('Hello ' + name + result)
+
+# Everything works!
+hi()
+hi('Marie')
+hi('Marie', 'Alice')
+hi('Marie', 'Alice', 'Alex')
+#+END_src
+
+
 * Introduction to Pandas
 
 For this section, we will use the Covid-19 data from the {{<a "https://github.com/CSSEGISandData/COVID-19" "Johns Hopkins University CSSE repository.">}} I last accessed this database on Saturday, so the last day of data we will use is June 12, 2021.
