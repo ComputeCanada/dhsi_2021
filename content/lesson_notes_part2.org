@@ -24,6 +24,8 @@ I already uploaded the two files we will use onto our JupyterHub. They are at: ~
 
 For those who want to work on their own machine, those files are also in {{<a "https://drive.google.com/drive/u/1/folders/1A-geyO7vQ6gND61zHBukTJeWMr9-pBMy" "our GoogleDrive">}}. You can download them from there, but you will have to make sure to change the code to match the paths of the files on your machine when you read them into Python.
 
+For reference, {{<a "https://pandas.pydata.org/docs/user_guide/index.html" "here">}} is a User Guide to pandas and {{<a "https://pandas.pydata.org/pandas-docs/stable/reference/index.html" "here">}} is the full documentation.
+
 ** Setup
 
 First, we need to load packages and read in the data.
