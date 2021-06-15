@@ -85,10 +85,10 @@ Let's make this even more fancy: let's create a function with a facultative argu
 def howdy(name='you'):
     print('Hello ' + name)
 
-# That we call without argument (making use of the default value)
+# We can call it without argument (making use of the default value)
 howdy()
 
-# And with an argument
+# And we can call it with an argument
 howdy('Marie')
 #+END_src
 
@@ -102,7 +102,7 @@ howdy('Marie', 'Alice')
 *** Function with two arguments
 
 
-So we could create a function which takes two arguments:
+We could create a function which takes two arguments:
 
 #+BEGIN_src python
 # Our two-argument function
@@ -128,7 +128,7 @@ hey('Marie', 'Alice', 'Alex')
 
 *** Function which allow to pass any number of arguments
 
-So, let's create a truly great function which handles all of our cases:
+Let's create a truly great function which handles all of our cases:
 
 #+BEGIN_src python
 # Now, this one is the real deal
@@ -145,8 +145,9 @@ hi('Marie', 'Alice')
 hi('Marie', 'Alice', 'Alex')
 #+END_src
 
-
 * Introduction to Pandas
+
+{{<a "https://pandas.pydata.org/" "pandas">}} is a Python library built to manipulate data frames and time series.
 
 For this section, we will use the Covid-19 data from the {{<a "https://github.com/CSSEGISandData/COVID-19" "Johns Hopkins University CSSE repository.">}} I last accessed this database on Saturday, so the last day of data we will use is June 12, 2021.
 
@@ -160,10 +161,10 @@ For reference, {{<a "https://pandas.pydata.org/docs/user_guide/index.html" "here
 
 ** Setup
 
-First, we need to load packages and read in the data:
+First, we need to load the pandas library and read in the data:
 
 #+BEGIN_src python
-# Load the pandas package and create a shorter name for it
+# Load the pandas library and create a shorter name for it
 import pandas as pd
 
 # Read in data from a csv file
@@ -198,25 +199,54 @@ cases.dtypes
 
 ** Number of cases per country by decreasing order for any date
 
-Let's see what the numbers were for each country on June 12, 2021. And to make it easier to read, let's also order those numbers by decreasing order:
+Let's see what the numbers were for each country on June 12, 2021. To make it easier to read, let's also order those numbers by decreasing order:
 
 #+BEGIN_src python
 # Let's get rid of the latitude and longitude to simplify our data
 simple = cases.drop(columns=['Lat', 'Long'])
 simple
 
-# Some countries are split between several provinces or states
+# Some countries are split between several provinces or states (e.g. Australia)
+# Let's select only the data for Australia to show this
+# → We want all the rows for which the Country/Region column is equal to Australia
+
+# First, we want to select the Country/Region column
+# There are several ways to index in pandas. This is one option
+simple['Country/Region']
+
+# This is another way to index a column in pandas
+simple.loc[:, 'Country/Region']
+
+# Then we need a conditional (that variable is equal to Australia)
+simple.loc[:, 'Country/Region'] == 'Australia'
+
+# Finally, we index, out of our entire data frame,
+# the rows for which that condition returns true
 simple[simple.loc[:, 'Country/Region'] == 'Australia']
 
 # Let's make the sum per countries for all the dates
+# We need to group the rows by countries, then make the sum
 totals = simple.groupby('Country/Region').sum()
 totals
 
 # Now, we can look at the totals for any date
+totals['6/12/21']
+
+# And with an alternative indexing method
 totals.loc[:, '6/12/21']
 
 # And we can order them by decreasing values
 totals.loc[:, '6/12/21'].sort_values(ascending=False)
+#+END_src
+
+** Number of cases for one country at all the dates
+
+Now, let's focus on a single country and extract the time series of confirmed cases for that country.
+
+#+BEGIN_src python
+# Our variable totals can be used directly for this too
+# Here, we index a row instead of a column
+totals.loc['Albania']
 #+END_src
 
 ** Global totals
