@@ -7,7 +7,7 @@
 {{<cgr>}}11:15 am–1:00 pm{{</cgr>}} \\
 *Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}
 
-* Our training JupyterHub
+** Our training JupyterHub
 
 For this session and for all sessions tomorrow, you are welcome to use our training JupyterHub on which all Python packages are installed and where the data is already downloaded. It will make getting setup a lot easier and faster.
 
