@@ -1,6 +1,8 @@
 #+title: Day 2 – Python
 #+slug: day2
 
+#+OPTIONS: toc:nil
+
 {{<cor>}}Tuesday, June 15{{</cor>}}
 
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
