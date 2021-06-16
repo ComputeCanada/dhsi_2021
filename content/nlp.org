@@ -14,3 +14,11 @@
 - {{<a "https://web.stanford.edu/~jurafsky/slp3/" "Speech and Language Processing">}} is a book by {{<a "https://web.stanford.edu/~jurafsky/" "Dan Jurafsky">}} and {{<a "https://home.cs.colorado.edu/~martin/" "James Martin">}} with a free online version
 - The {{<a "http://web.stanford.edu/class/cs224n/" "CS224n: Natural Language Processing with Deep Learning">}} Stanford University course has many resources available on its site
 
+* Concepts
+
+/Click below to open the presentation.\\
+Once in the presentation, navigate the slides with the left and right arrows and refresh any page to show the link that will take you back here./
+
+#+BEGIN_export html
+<a href="https://westgrid-slides.netlify.app/nlp/#/"><p align="center"><img src="/img/nlp_slides.png" title="" width="100%" style="border-style: solid; border-width: 1.5px 1.5px 0 2px; border-color: black"/></p></a>
+#+END_export
