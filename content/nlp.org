@@ -7,6 +7,15 @@
 {{<cgr>}}11:15 am–1:00 pm{{</cgr>}} \\
 *Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}— Go to Room 1 (NLP)
 
+{{<br size="1">}}
+
+#+BEGIN_box
+*Heads-up*
+
+This session is conceptual rather than hands-on.\\
+I will explain what machine learning, neural networks, deep learning, and NLP are and I will demo an example of using NLP for sentiment analysis, but you will not get to play with Python code.
+#+END_box
+
 * Resources
 
 - {{<a "https://stanfordnlp.github.io/stanza/" "Stanza">}} is a Python NLP package developed by the {{<a "https://nlp.stanford.edu/" "Stanford NLP Group">}}
