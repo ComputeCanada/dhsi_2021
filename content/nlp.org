@@ -73,7 +73,7 @@ learn.predict("This is terrible.")
 
 If you want to really understand what neural networks are and how they work, I really recommend you to watch the 4 videos below from {{<a "https://www.3blue1brown.com/" "3Blue1Brown by Grant Sanderson">}}. They are easy to watch, fun, and do an excellent job at introducing the functioning of a simple neural network.
 
-*** What neural networks really are{{<2br>}}
+** What neural networks really are
 
 {{<youtube aircAruvnKk>}} {{<br>}}
 
@@ -81,11 +81,11 @@ If you want to really understand what neural networks are and how they work, I r
 For those of you who will develop NLP models, if you find that your mathematical background is shaky, 3blue1brown also has [[https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab][an excellent series of videos on linear algebra]] and [[https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr][an equally great one on calculus]].
 #+END_note
 
-*** How neural networks learn{{<2br>}}
+** How neural networks learn
 
 {{<youtube IHZwWFHWa-w>}}
 
-*** More technical: how backpropagation works{{<2br>}}
+** More technical: how backpropagation works
 
 {{<youtube Ilg3gGewQ5U>}}{{<br>}}
 
@@ -93,6 +93,6 @@ For those of you who will develop NLP models, if you find that your mathematical
 There is one minor terminological error in this video: they call the use of mini-batches *stochastic gradient descent*. In fact, this is called *mini-batch gradient descent*. Stochastic gradient descent uses a single example at each iteration.
 #+END_note
 
-*** Even more nerdy: the calculus of backpropagation{{<2br>}}
+** Even more nerdy: the calculus of backpropagation
 
 {{<youtube tIeHLnjs5U8>}}
