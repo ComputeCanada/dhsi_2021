@@ -7,4 +7,10 @@
 {{<cgr>}}11:15 am–1:00 pm{{</cgr>}} \\
 *Connection Details:* {{<a "https://us02web.zoom.us/j/87259243311?pwd=RlhnU2huTGFpTFhwN1p5ZnpXcWEvdz0" "Lesson Room Link">}}— Go to Room 1 (NLP)
 
+* Resources
+
+- {{<a "https://stanfordnlp.github.io/stanza/" "Stanza">}} is a Python NLP package developed by the {{<a "https://nlp.stanford.edu/" "Stanford NLP Group">}}
+- Since many of you have interests in Russian literature, {{<a "https://russiannlp.sites.stanford.edu/resources" "here">}} is a set of interesting resources
+- {{<a "https://web.stanford.edu/~jurafsky/slp3/" "Speech and Language Processing">}} is a book by {{<a "https://web.stanford.edu/~jurafsky/" "Dan Jurafsky">}} and {{<a "https://home.cs.colorado.edu/~martin/" "James Martin">}} with a free online version
+- The {{<a "http://web.stanford.edu/class/cs224n/" "CS224n: Natural Language Processing with Deep Learning">}} Stanford University course has many resources available on its site
 
