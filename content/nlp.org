@@ -31,3 +31,41 @@ Once in the presentation, navigate the slides with the left and right arrows and
 #+BEGIN_export html
 <a href="https://westgrid-slides.netlify.app/nlp/#/"><p align="center"><img src="/img/nlp_slides.png" title="" width="100%" style="border-style: solid; border-width: 1.5px 1.5px 0 2px; border-color: black"/></p></a>
 #+END_export
+  
+* Example
+
+Let's go through an example of NLP using {{<a "https://github.com/fastai/fastai" "fastai.">}} I am using here one of their demo examples.
+
+Below is the code that I will run. Because we only have one GPU and because it would take an extremely long time to run this code on CPUs, unfortunately, you will have to watch and you won't be able to run this on your JupyterLab.
+
+#+BEGIN_src python
+# First, we load the necessary functions from fastai
+# Note that import * is appropriate with fastai
+# but not a very good practice with other packages
+from fastai.text.all import *
+
+# Then we build our data loaders
+# This is an object of the fastai class DataLoaders
+# It contains a validation data loader and a training data loader
+dls = TextDataLoaders.from_folder(
+    '/project/def-sponsor00/dhsi/.fastai/data/imdb',
+    valid='test'
+)
+
+# Let's have a look at the data
+dls.show_batch()
+
+# Now, we define our learner
+# AWD_LSTM is the architecture (https://arxiv.org/abs/1708.02182)
+learn = text_classifier_learner(dls, AWD_LSTM, drop_mult=0.5, metrics=accuracy)
+
+# Finally, we fine-tune the pretrained model with our data
+# over 2 epochs with a learning rate of 1e-2
+learn.fine_tune(2, 1e-2)
+
+# Then we can use our model to predict whether sentences are positive or negative
+learn.predict("This is amazing.")
+learn.predict("I love it.")
+learn.predict("This is terrible.")
+#+END_src
+
