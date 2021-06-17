@@ -266,3 +266,28 @@ Help each other out and make it a team effort!</em>
 How many people had <b>died</b> from Covid-19 in Venezuela by March 10, 2021?<br>
 (according to the available data)
 {{</challenge>}}
+
+{{<chaans>}}
+
+#+BEGIN_src python
+# First, you need to load the proper data file
+dead = pd.read_csv('/project/def-sponsor00/dhsi/covid_dead.csv')
+dead
+
+# Then, you need to select the data for Venezuela
+# You can index in one of two methods
+venez = dead[dead['Country/Region'] == 'Venezuela']
+venez = dead[dead.loc[:, 'Country/Region'] == 'Venezuela']
+venez
+
+# If you knew the index for Venezuela,
+# you could also index this way
+dead.loc[270]
+
+# Finally, you need to select for the proper date
+answer = venez['3/10/21']
+answer = venez.loc[:, '3/10/21']
+answer
+#+END_src
+
+The answer is: *1399*.
