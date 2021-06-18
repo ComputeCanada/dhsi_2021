@@ -33,4 +33,3 @@
 
   - General Python
   - Web Scraping
-
